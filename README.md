@@ -1,9 +1,9 @@
 # ktvisitor-kastree
 
-# private use with kastree in idea, in order to get package and method
+#### private use with kastree in idea, in order to get package and method
 
 
-# USAGE:
+#### USAGE:
 
 ```
 var callback: ISourceClassCallback = ISourceClassCallback {
